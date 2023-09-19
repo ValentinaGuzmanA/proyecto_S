@@ -1,0 +1,33 @@
+{
+  "Empleado": [
+    {
+   
+      "nombre": "Pepito Perez",
+      "email": "vale@gmail.com",
+      "identificacion": "Cedula de ciudadania",
+      "password": "1234567",
+      "id": 1
+    
+    },
+    {
+      "nombre": "Pepito Perez",
+      "email": "valSAe@gmail.com",
+      "identificacion": "Cedula de ciudadania",
+      "password": "108976543",
+      "id": 2
+    },
+    {
+      "nombre": "Pepito Perez",
+      "email": "vSale@gmail.com",
+      "identificacion": "Cedula de ciudadania",
+      "password": "108976543",
+      "id": 3
+    },
+    {
+      "nombre": "Pepito Perez",
+      "email": "vae@gmail.com",
+      "identificacion": "Cedula de ciudadania",
+      "password": "108976543",
+      "id": 4
+    }
+  ]}
